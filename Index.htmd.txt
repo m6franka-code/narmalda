@@ -1,1 +1,1 @@
-<img src="images/images.ruba" alt="рибка шлюзів" class="profile-img">
+<img src="images/images.ruba.jpg" alt="рибка шлюзів" class="profile-img">
