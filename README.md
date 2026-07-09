@@ -1,5 +1,3 @@
-# narmalda
-# вас вітає магазин по продажі елітної риби
 <!DOCTYPE html>
 <html lang="uk">
 <head>
